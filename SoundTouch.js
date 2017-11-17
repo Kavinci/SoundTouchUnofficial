@@ -1,4 +1,9 @@
+/*This is a helper file to prepare and make GET or POST calls to the device*/
+
 var Method = {
+struct: function(){
+    
+},
 key: function(){},
 select: function(){},
 sources: function(){},
